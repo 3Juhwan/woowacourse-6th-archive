@@ -2,3 +2,7 @@
 	path = woowacourse/level-1-racingcar
 	url = https://github.com/3Juhwan/woowacourse-level-1-racingcar
 	branch = 3juhwan
+[submodule "woowacourse/level-1-ladder"]
+	path = woowacourse/level-1-ladder
+	url = https://github.com/3Juhwan/woowacourse-level-1-ladder
+	branch = 3juhwan
