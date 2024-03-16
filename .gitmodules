@@ -1,0 +1,4 @@
+[submodule "woowacourse/level-1-racingcar"]
+	path = woowacourse/level-1-racingcar
+	url = https://github.com/3Juhwan/woowacourse-level-1-racingcar
+	branch = 3juhwan
